@@ -1,6 +1,7 @@
 ### Olá, meu nome é Lucas Teixeira!
 
-🖥️ Sou estudante do curso de Análise e Desenvolvimento de Sistemas pelo Senac/PE.
+🖥️ Sou estudante do curso de Análise e Desenvolvimento de Sistemas pelo Senac/PE.  
+📚 Atualmente estou estudando JavaScript.
 
 <div align="center">
   <a href="https://github.com/LucasTMB">
@@ -11,6 +12,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Lucas-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="right" alt="Luffy-pic" height="150" style="border-radius:50px;" src="https://tenor.com/view/luffy-smile-luffy-giggle-one-piece-luffy-gif-21582589.gif">
 </div>
   
