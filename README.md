@@ -1,7 +1,7 @@
 ### Olá, meu nome é Lucas Teixeira!
 
 🖥️ Sou estudante do curso de Análise e Desenvolvimento de Sistemas pelo Senac/PE.  
-📚 Estudando JavaScript, React e Node.js
+📚 Estudando JavaScript, React e Java.
 
 <div align="center">
   <a href="https://github.com/LucasTMB">
@@ -15,6 +15,8 @@
   <img align="center" alt="Lucas-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Lucas-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Lucas-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Lucas-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+
   <img align="right" alt="Luffy-pic" height="150" style="border-radius:50px;" src="https://tenor.com/view/luffy-smile-luffy-giggle-one-piece-luffy-gif-21582589.gif">
 </div>
   
