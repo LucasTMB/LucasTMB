@@ -1,7 +1,7 @@
 ### Olá, meu nome é Lucas Teixeira!
 
 🖥️ Sou estudante do curso de Análise e Desenvolvimento de Sistemas pelo Senac/PE.  
-📚 Estudando JavaScript, React e Java.
+📚 Estudando JavaScript, Java e Python.
 
 <div align="center">
   <a href="https://github.com/LucasTMB">
