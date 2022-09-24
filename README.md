@@ -1,6 +1,6 @@
 ### Olá, meu nome é Lucas Teixeira!
 
-🖥️ Sou estudante do curso de Análise e Desenvolvimento de Sistemas pelo Senac/PE.  
+🖥️ Sou estudante do curso de Análise e Desenvolvimento de Sistemas na Faculdade Senac Pernambuco.  
 📚 Estudando JavaScript, Java e Python.
 
 <div align="center">
