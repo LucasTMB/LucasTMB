@@ -1,9 +1,25 @@
-### Olá, meu nome é Lucas Teixeira!
+# Olá, meu nome é Lucas Teixeira!
 
-🖥️ Sou estudante do curso de Análise e Desenvolvimento de Sistemas na Faculdade Senac Pernambuco.  
-📚 Estudando JavaScript, Java e Python.
+```js
+import Desenvolvedor from 'LucasTMB';
 
-<div align="center">
+class SobreMim extends Desenvolvedor {
+  nome = 'Lucas Teixeira';
+  curso = 'Análise e Desenvolvimento de Sistemas';
+  faculdade = 'Faculdade Senac Pernambuco';
+  cidade = 'Recife';
+  estado = 'Pernambuco';
+  pais = 'Brasil';
+}
+
+class Skills extends Desenvolvedor {
+  linguagens  = ['HTML', 'CSS', 'JavaScript', 'Python', 'Java'];
+  frameworks = ['React', 'React Native', 'Bootstrap'];
+}
+```
+##
+
+<div align="left">
   <a href="https://github.com/LucasTMB">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=LucasTMB&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTMB&layout=compact&langs_count=7&theme=highcontrast"/>
