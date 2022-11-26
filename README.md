@@ -6,7 +6,7 @@ import Developer from 'LucasTMB';
 
 class AboutMe extends Developer {
   name = 'Lucas Teixeira';
-  major = 'Análise e Desenvolvimento de Sistemas';
+  major = 'Systems Analysis and Development';
   college = 'Faculdade Senac Pernambuco';
   city = 'Recife';
   state = 'Pernambuco';
