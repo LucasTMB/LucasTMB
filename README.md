@@ -14,7 +14,7 @@ class AboutMe extends Developer {
 }
 
 class Skills extends Developer {
-  languages  = ['HTML', 'CSS', 'JavaScript', 'Python', 'Java'];
+  languages  = ['HTML', 'CSS', 'JavaScript', 'Python', 'Java', 'SQL'];
   frameworks = ['React', 'React Native', 'Bootstrap'];
 }
 ```
