@@ -1,5 +1,4 @@
-# Olá! Meu nome é Lucas Teixeira!
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="390px" max-width="390px" width="390px" align="right" alt="Computador">
+# Olá! Meu nome é Lucas!
 
 ```js
 import Developer from 'LucasTMB';
@@ -23,8 +22,8 @@ class Skills extends Developer {
 ### Estatísticas do GitHub:
 <div align="left">
   <a href="https://github.com/LucasTMB">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=LucasTMB&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTMB&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasTMB&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTMB&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
   
 ### Principais linguagens e ferramentas:
@@ -55,14 +54,11 @@ class Skills extends Developer {
   
 ### Interesses:
 <div>
-  <a><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
-  <a><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white"></a>
-  <a><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-  <a><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
+  <a><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"></a>
 </div>    
 
 ### Como me encontrar:
