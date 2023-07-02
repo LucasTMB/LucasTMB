@@ -1,4 +1,6 @@
-# Olá! Meu nome é Lucas!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2800CC&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=085EFF&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Lucas+Teixeira!;Tenho+20+anos.;Sou+de+Recife/PE.;Curso+Análise+e+Desenvolvimento+de+Sistemas.;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
 ```js
 import Developer from 'LucasTMB';
@@ -22,8 +24,8 @@ class Skills extends Developer {
 ### Estatísticas do GitHub:
 <div align="left">
   <a href="https://github.com/LucasTMB">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasTMB&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTMB&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasTMB&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTMB&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
 ### Principais linguagens e ferramentas:
@@ -70,3 +72,12 @@ class Skills extends Developer {
 ##
   
 ![Snake animation](https://github.com/LucasTMB/LucasTMB/blob/output/github-contribution-grid-snake.svg)
+
+##
+
+<div align="center">
+  <br>
+  <p align="centre"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{LucasTMB}/count.svg" /></p> 
+  <br>
+</div>
