@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2800CC&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=549FF3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=085EFF&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Lucas+Teixeira!;Tenho+20+anos.;Sou+de+Recife/PE.;Curso+Análise+e+Desenvolvimento+de+Sistemas.;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=549FF3&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Lucas+Teixeira!;Tenho+20+anos.;Sou+de+Recife/PE.;Curso+Análise+e+Desenvolvimento+de+Sistemas.;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
 ```js
 import Developer from 'LucasTMB';
@@ -42,6 +42,8 @@ class Skills extends Developer {
   <img align="center" alt="Lucas-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Lucas-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="Lucas-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
+  <img align="center" alt="Lucas-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+
 
 </div>
   
@@ -71,7 +73,7 @@ class Skills extends Developer {
   
 ##
   
-![Snake animation](https://github.com/LucasTMB/LucasTMB/blob/output/github-contribution-grid-snake.svg)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LucasTMB&bg_color=0d1117&color=549FF3&line=549FF3&point=a5d0ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
 
@@ -81,3 +83,5 @@ class Skills extends Developer {
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{LucasTMB}/count.svg" /></p> 
   <br>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=549FF3&height=80&section=footer"/>
