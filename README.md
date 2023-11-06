@@ -2,21 +2,22 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=549FF3&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Lucas+Teixeira!;Tenho+20+anos.;Sou+de+Recife/PE.;Curso+Análise+e+Desenvolvimento+de+Sistemas.;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
-```js
-import Developer from 'LucasTMB';
+```java
+import entities.Developer;
 
-class AboutMe extends Developer {
-  name = 'Lucas Teixeira';
-  major = 'Systems Analysis and Development';
-  college = 'Faculdade Senac Pernambuco';
-  city = 'Recife';
-  state = 'Pernambuco';
-  country = 'Brazil';
-}
+public class AboutMe {
+  public static void main(String[] args) {
+    Developer dev = new Developer();
 
-class Skills extends Developer {
-  languages  = ['HTML', 'CSS', 'JavaScript', 'Python', 'Java', 'SQL'];
-  frameworks = ['React', 'React Native', 'Bootstrap'];
+    dev.setName("Lucas Teixeira");
+    dev.setAge("20");
+    dev.setMajor("Systems Analysis and Development");
+    dev.setCollege("Senac");
+    dev.setCountry("Brazil");
+    dev.setInterests("C#, JavaScript, Java, Python and SQL");
+
+    System.out.println("Hello World! :)");
+  }
 }
 ```
 ##
@@ -36,11 +37,10 @@ class Skills extends Developer {
   <img align="center" alt="Lucas-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Lucas-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Lucas-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Lucas-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" alt="Lucas-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Lucas-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Lucas-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Lucas-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" alt="Lucas-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="Lucas-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
   <img align="center" alt="Lucas-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
@@ -51,18 +51,14 @@ class Skills extends Developer {
 <div>
   <a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
-  <a><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
-  <a><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-  <a><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+  <a><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
+  <a><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=wh"></a>
 </div>   
   
 ### Interesses:
 <div>
-  <a><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
-  <a><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a>
-  <a><img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white"></a>
-  <a><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-  <a><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"></a>
+  <a><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></a>
+  <a><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
 </div>    
 
 ### Como me encontrar:
