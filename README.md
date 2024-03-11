@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=549FF3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=549FF3&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Lucas+Teixeira!;Tenho+20+anos.;Sou+de+Recife/PE.;Curso+Análise+e+Desenvolvimento+de+Sistemas.;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=549FF3&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Lucas+Teixeira!;Tenho+21+anos.;Sou+de+Recife/PE.;Formado+em+Análise+e+Desenvolvimento+de+Sistemas.;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
 ```java
 import entities.Developer;
@@ -10,11 +10,12 @@ public class AboutMe {
     Developer dev = new Developer();
 
     dev.setName("Lucas Teixeira");
-    dev.setAge("20");
-    dev.setMajor("Systems Analysis and Development");
+    dev.setAge(21);
+    dev.setDegree("Systems Analysis and Development");
     dev.setCollege("Senac");
+    dev.setCity("Recife");
     dev.setCountry("Brazil");
-    dev.setInterests("C#, JavaScript, Java, Python and SQL");
+    dev.setInterests("ABAP, C#, JavaScript, Java, Python and SQL");
 
     System.out.println("Hello World! :)");
   }
