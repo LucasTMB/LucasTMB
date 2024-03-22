@@ -13,6 +13,7 @@ public class AboutMe {
     dev.setAge(21);
     dev.setDegree("Systems Analysis and Development");
     dev.setCollege("Senac");
+    dev.setCompany("Deloitte");
     dev.setCity("Recife");
     dev.setCountry("Brazil");
     dev.setInterests("ABAP, C#, JavaScript, Java, Python and SQL");
@@ -50,15 +51,15 @@ public class AboutMe {
   
 ### Estudando:
 <div>
+  <a><img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
-  <a><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=wh"></a>
 </div>   
   
 ### Interesses:
 <div>
-  <a><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></a>
+  <a><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=wh"></a>
   <a><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
 </div>    
 
