@@ -21,13 +21,6 @@ WRITE: 'Hello World! :)'.
 ```
 ##
 
-### Estatísticas do GitHub:
-<div align="left">
-  <a href="https://github.com/LucasTMB">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasTMB&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTMB&layout=compact&langs_count=7&theme=radical"/>
-</div>  
-
 ### Como me encontrar:
 <div>
   <a href = "mailto:lucastmbarros@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
